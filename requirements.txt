@@ -1,4 +1,4 @@
-anywidget==0.9.10
+anywidget==0.9.13
 seaborn
 altair
 vega_datasets
